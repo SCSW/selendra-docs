@@ -1,7 +1,7 @@
 site_name: Selendra Docs
 site_description: The Selendra knowledge base
 site_author: 'Selendra'
-site_url: https://wiki.selendra.org
+site_url: https://docs.selendra.org
 
 # Navigation  
 nav:
