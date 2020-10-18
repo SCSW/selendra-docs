@@ -1,0 +1,47 @@
+site_name: Selendra Docs
+site_description: The Selendra knowledge base
+site_author: 'Selendra'
+site_url: https://wiki.selendra.org
+
+# Navigation  
+nav:
+ - Home: index.md
+ - General:
+   - Getting Started: general/getting-started.md
+
+# Configuration for the Material theme
+theme:
+  name: material
+  favicon: images/sel.ico
+  logo: assets/sel.png
+  icon:
+    repo: fontawesome/brands/github-square
+  palette:
+    scheme: slate
+    primary: white
+  font:
+    text: 'PT Sans'
+    code: 'Ubuntu Mono'
+  feature:
+    tabs: false
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/selendraio
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/selendra_sel
+    - icon: fontawesome/brands/github
+      link: https://github.com/selendra
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/selendra 
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/selendra
+repo_url: https://github.com/selendra/selendra-docs
+repo_name: selendra/selendra-docs
+edit_uri: ""
+footer:
+  logo: 'assets/sel.png'
+
+
+
+      
