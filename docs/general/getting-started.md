@@ -16,7 +16,7 @@ For brand-new learners of Blockchain technology:
 For brand-new learners of Indracore:
 
 - [Reading the "What is Selendra"][medium] article on Medium.
-- [Claiming Kusama KSM tokens][tokens]
+- [Claiming Kusama tSEL tokens][tokens]
 
 For brand-new learners please head over to our [Selendra
 Wiki][selendra wiki].
