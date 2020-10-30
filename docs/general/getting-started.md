@@ -16,12 +16,12 @@ For brand-new learners of Blockchain technology:
 For brand-new learners of Indracore:
 
 - [Reading the "What is Selendra"][medium] article on Medium.
-- [Claiming Kusama KSM tokens][tokens]
+- [Claiming Selendra SEL tokens][tokens]
 
 For brand-new learners please head over to our [Selendra
-Wiki][selendra wiki].
+Docs][docs].
 
 [mooc]: https://mooc.web3.foundation/course/blockchain-fundamentals/
 [medium]: https://medium.com/selendra
 [tokens]: https://claim.selendra.org/
-[selendra wiki]: https://docs.selendra.org/
+[docs]: https://docs.selendra.org/
