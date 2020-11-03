@@ -1,5 +1,5 @@
 ---
-id: kusama-getting-started
+id: Selendra-getting-started
 title: Getting Started
 sidebar_label: Getting Started
 ---

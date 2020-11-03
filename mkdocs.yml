@@ -8,6 +8,8 @@ nav:
  - Home: index.md
  - General:
    - Getting Started: general/getting-started.md
+ - Maintain:
+   - How to set up validator: Maintain/guides-how-to-validate-selendra.md
 
 # Configuration for the Material theme
 theme:
