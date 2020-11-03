@@ -7,15 +7,15 @@ site_url: https://docs.selendra.org
 nav:
  - Home: index.md
  - Basic:
-   - Getting Started: general/getting-started.md
-   - Create an Account: 
-   - Wallet and Balance:
-   - Send SEL:
+   - Getting Started: basic/getting-started.md
+   - Create an Account: basic/getting-started.md
+   - Wallet and Balance: basic/getting-started.md
+   - Send SEL: basic/getting-started.md
  - Maintain:
    - Set Up a validator: Maintain/guides-how-to-validate-selendra.md
-   - Set Up a Full Node: 
+   - Set Up a Full Node: Maintain/guides-how-to-validate-selendra.md
  - Smart Contracts:
-   - Deploy a WASM Contract:
+   - Deploy a WASM Contract: Maintain/guides-how-to-validate-selendra.md
 
 # Configuration for the Material theme
 theme:
