@@ -1,8 +1,4 @@
----
-id: Selendra-getting-started
-title: Getting Started
-sidebar_label: Getting Started
----
+### Getting Started
 
 It's time to get started on the Indracore network! Please check out our recommended list for getting
 started.
