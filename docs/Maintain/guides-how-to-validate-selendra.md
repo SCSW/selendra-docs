@@ -63,7 +63,19 @@ Make sure not to bond all your SEL balance since you will be unable to pay trans
 
 It is now time to set up our validator. We will do the following:
 
-    Bond the SEL of the Stash account. These SEL will be put at stake for the security of the network and can be slashed.
-    Select the Controller. This is the account that will decide when to start or stop validating.
+Bond the SEL of the Stash account. These SEL will be put at stake for the security of the network and can be slashed.
+Select the Controller. This is the account that will decide when to start or stop validating.
 
-First, go to the Staking section. Click on "Account Actions", and then the "New stake" button.
+First, go to the [Staking](https://testnet.selendra.org/#/staking) section. Click on "Account Actions", and then the "New stake" button.
+
+Once everything is filled in properly, click Bond and sign the transaction with your Stash account.
+
+After a few seconds, you should see an "ExtrinsicSuccess" message. You should now see a new card with all your accounts (note: you may need to refresh the screen). The bonded amount on the right corresponds to the funds bonded by the Stash account.
+
+#### Set Session Keys
+
+Navigate to Toolbox tab and select [RPC Calls](https://testnet.selendra.org/#/rpc) then select the author > rotateKeys() option and remember to save the output that you get back for a later step.
+![Session Keys](../assets/author_rotateKeys.png "Session Keys")
+
+#### Validate
+If you go to the "Staking" tab, you will see a list of active validators currently running on the network. At the top of the page, it shows how many validator slots are available as well as how many nodes have signaled their intention to be a validator. You can also go to the "Waiting" tab to double check to see whether your node is listed there.
