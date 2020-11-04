@@ -8,8 +8,7 @@ nav:
  - Home: index.md
  - Basic:
    - Getting Started: basic/getting-started.md
-   - Create an Account: basic/getting-started.md
-   - Wallet and Balance: basic/getting-started.md
+   - Create an Account: basic/create-account.md
    - Send SEL: basic/send-sel.md
  - Maintain:
    - Set Up a validator: Maintain/guides-how-to-validate-selendra.md
