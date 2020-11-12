@@ -12,7 +12,7 @@ nav:
    - Send SEL: basic/send-sel.md
  - Maintain:
    - Set Up a validator: Maintain/guides-how-to-validate-selendra.md
-   - Set Up a Full Node: Maintain/guides-how-to-validate-selendra.md
+   - Nominator Guide: Maintain/guides-how-to-nominate-selendra.md
  - Smart Contracts:
    - Deploy a WASM Contract: Maintain/guides-how-to-validate-selendra.md
 
