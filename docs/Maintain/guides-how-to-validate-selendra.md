@@ -1,6 +1,8 @@
 ## Run a Validator
 ### Introduction
 
+Running a validator on a live network is a lot of responsibility! You will be accountable for not only your own stake, but also the stake of your current nominators. If you make a mistake and get slashed, your money and your reputation will be at risk. However, running a validator can also be very rewarding, knowing that you contribute to the security of a decentralized network while growing your stash.
+
 ### Initial Set-up
 #### Requirements
 Provisioning the server with following recommendation:
