@@ -14,7 +14,7 @@ nav:
    - Set Up a validator: Maintain/guides-how-to-validate-selendra.md
    - Nominator Guide: Maintain/guides-how-to-nominate-selendra.md
  - Smart Contracts:
-   - Deploy a WASM Contract: Maintain/guides-how-to-deploy-a-wasm-contract.md
+   - Deploy a WASM Contract: SmartContracts/guides-how-to-deploy-a-wasm-contract.md
 
 # Configuration for the Material theme
 theme:
