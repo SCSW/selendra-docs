@@ -13,6 +13,8 @@ nav:
  - Maintain:
    - Set Up a validator: Maintain/guides-how-to-validate-selendra.md
    - Nominator Guide: Maintain/guides-how-to-nominate-selendra.md
+ - Integrations:
+   - 
  - Smart Contracts:
    - Deploy a WASM Contract: SmartContracts/guides-how-to-deploy-a-wasm-contract.md
 
