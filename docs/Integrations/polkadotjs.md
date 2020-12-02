@@ -1,6 +1,6 @@
 ## Polkadot.js JavaScript Library
 
-![Selendra Polkadotjs](images/sel-pol.png "Selendra Polkadotjs")
+![Selendra Polkadotjs](../assets/sel-pol.png "Selendra Polkadotjs")
 ### Introduction
 The [Polkadot.js](https://polkadot.js.org/docs/api/start) library provide application developers a set of tools to interact with Selendra Nodes using Javascript, similar to web3.js on Ethereum. 
 
