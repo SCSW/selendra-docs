@@ -1,7 +1,6 @@
 ### Getting Started
 
-It's time to get started on the Indracore network! Please check out our recommended list for getting
-started.
+It's time to get started on the Indracore network! Please check out our recommended list.
 
 For brand-new learners of Blockchain technology:
 
@@ -11,10 +10,10 @@ For brand-new learners of Blockchain technology:
 
 For brand-new learners of Indracore:
 
-- [Reading the "What is Selendra"][medium] article on Medium.
+- Reading ["What is Selendra"][medium] on Medium.
 - [Claiming Selendra SEL tokens][tokens]
 
-For brand-new learners please head over to our [Selendra
+For brand-new learners, please head over to our [Selendra
 Docs][docs].
 
 [mooc]: https://mooc.web3.foundation/course/blockchain-fundamentals/

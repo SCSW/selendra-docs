@@ -42,4 +42,4 @@ Select them, confirm the transaction, and you're done - you are now nominating. 
 
 ### Step 3: Stop nominating
 
-At some point, you might decide to stop nominating one or more validators. You can always change who you're nominating, but you cannot withdraw your tokens unless you unbond them. Detailed instructions are available here (to be update).
+At some point, you might decide to stop nominating one or more validators. You can always change who you're nominating, but you cannot withdraw your tokens unless you unbond them. Detailed instructions are available here (to be updated).
