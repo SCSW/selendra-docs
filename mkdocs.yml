@@ -15,9 +15,14 @@ nav:
    - Set Up a validator: Maintain/guides-how-to-validate-selendra.md
    - Nominator Guide: Maintain/guides-how-to-nominate-selendra.md
  - Integrations:
+   - Indra-JS : Integrations/polkadotjs.md
    - Polkadot.js: Integrations/polkadotjs.md
  - Smart Contracts:
+   - Setup Environment: SmartContracts/guides-how-to-deploy-a-wasm-contract.md
+   - Creating an ink! Project: SmartContracts/guides-how-to-deploy-a-wasm-contract.md
+   - Building Your Contract: SmartContracts/guides-how-to-deploy-a-wasm-contract.md
    - Deploy a WASM Contract: SmartContracts/guides-how-to-deploy-a-wasm-contract.md
+   - Calling Your Contract: SmartContracts/guides-how-to-deploy-a-wasm-contract.md
 
 # Configuration for the Material theme
 theme:
