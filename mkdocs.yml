@@ -11,7 +11,7 @@ nav:
    - Create an Account: basic/create-account.md
    - Send SEL: basic/send-sel.md
  - Maintain:
-   - Setting Up a Indracore Node and Connecting to the Polkadot JS GUI : Maintain/guides-how-to-setup-indracore-local-node.md 
+   - Setting Up Local Node: Maintain/guides-how-to-setup-indracore-local-node.md 
    - Set Up a validator: Maintain/guides-how-to-validate-selendra.md
    - Nominator Guide: Maintain/guides-how-to-nominate-selendra.md
  - Integrations:
