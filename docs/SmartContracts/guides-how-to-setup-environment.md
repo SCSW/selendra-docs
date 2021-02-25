@@ -47,8 +47,8 @@ rustup target add wasm32-unknown-unknown --toolchain nightly
 ```
 
 ### Setting Up a Indracore Node
-Following the [Setting Up Local Node](https://docs.selendra.org/Maintain/guides-how-to-setup-indracore-local-node)
+Make sure you have running node read for your contract to be deployed. If you had not installed the node yet following the [Setting Up Local Node](https://docs.selendra.org/Maintain/guides-how-to-setup-indracore-local-node)
 
-We Want to Hear From You
+#### We Want to Hear From You
 
 If you have any feedback regarding deploying Smartcontract on your project, feel free to reach out through our official community at Telegram group [here](https://t.me/selendra_sel).
