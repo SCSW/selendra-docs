@@ -18,7 +18,7 @@ nav:
    - Indra-JS : Integrations/polkadotjs.md
    - Polkadot.js: Integrations/polkadotjs.md
  - Smart Contracts:
-   - Setup Environment: SmartContracts/guides-how-to-deploy-a-wasm-contract.md
+   - Setup Environment: SmartContracts/guides-how-to-setup-environment.md
    - Creating an ink! Project: SmartContracts/guides-how-to-deploy-a-wasm-contract.md
    - Building Your Contract: SmartContracts/guides-how-to-deploy-a-wasm-contract.md
    - Deploy a WASM Contract: SmartContracts/guides-how-to-deploy-a-wasm-contract.md
