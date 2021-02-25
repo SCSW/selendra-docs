@@ -47,7 +47,7 @@ rustup target add wasm32-unknown-unknown --toolchain nightly
 ```
 
 ### Setting Up a Indracore Node
-Following the [Setting Up Local Node](/Maintain/guides-how-to-setup-indracore-local-node) 
+Following the [Setting Up Local Node](https://docs.selendra.org/Maintain/guides-how-to-setup-indracore-local-node)
 
 We Want to Hear From You
 
