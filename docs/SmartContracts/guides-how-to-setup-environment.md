@@ -45,6 +45,16 @@ rustup update nightly
 rustup target add wasm32-unknown-unknown --toolchain nightly
 
 ```
+#### ink! CLI
+The final tool we will be installing is the ink! command line utility which will make setting up Substrate smart contract projects easier.
+
+You can install the utility using Cargo with:
+
+```
+cargo install cargo-contract --vers 0.8.0 --force --locked
+
+```
+You can then use cargo contract --help to start exploring the commands made available to you.
 
 ### Setting Up a Indracore Node
 Make sure you have running node read for your contract to be deployed. If you had not installed the node yet following the [Setting Up Local Node](https://docs.selendra.org/Maintain/guides-how-to-setup-indracore-local-node)
