@@ -12,7 +12,6 @@ Learn more from Parity Technologies refer to this page: https://substrate.dev/su
 pacman -Syu --needed --noconfirm cmake gcc openssl-1.0 pkgconf git clang
 export OPENSSL_LIB_DIR="/usr/lib/openssl-1.0"
 export OPENSSL_INCLUDE_DIR="/usr/include/openssl-1.0"
-
 ```
 
 #### Ubuntu/Debian
@@ -21,7 +20,6 @@ Use a terminal shell to execute the following commands:
 sudo apt update
 # May prompt for location information
 sudo apt install -y cmake pkg-config libssl-dev git build-essential clang libclang-dev curl libz-dev
-
 ```
 
 #### macOS
@@ -34,7 +32,6 @@ Open the Terminal application and execute the following commands:
 # Make sure Homebrew is up-to-date, install openssl and cmake
 brew update
 brew install openssl cmake
-
 ```
 
 #### Latest Nightly
@@ -43,7 +40,6 @@ Use a terminal shell to execute the following commands:
 rustup update
 rustup update nightly
 rustup target add wasm32-unknown-unknown --toolchain nightly
-
 ```
 #### ink! CLI
 The final tool we will be installing is the ink! command line utility which will make setting up Substrate smart contract projects easier.
@@ -51,9 +47,10 @@ The final tool we will be installing is the ink! command line utility which will
 You can install the utility using Cargo with:
 
 ```
-cargo install cargo-contract --vers 0.8.0 --force --locked
-
+cargo install cargo-contract --force
 ```
+Use the --force to ensure you are updated to the most recent cargo-contract version.
+
 You can then use cargo contract --help to start exploring the commands made available to you.
 
 ### Setting Up a Indracore Node
