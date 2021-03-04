@@ -20,7 +20,7 @@ nav:
  - Smart Contracts:
    - Setup Environment: SmartContracts/guides-how-to-setup-environment.md
    - Creating an ink! Project: SmartContracts/guides-creating-ink-project.md
-   - Building Your Contract: SmartContracts/guides-how-to-deploy-a-wasm-contract.md
+   - Building Your Contract: SmartContracts/guides-building-your-contract.md
    - Deploy a WASM Contract: SmartContracts/guides-how-to-deploy-a-wasm-contract.md
    - Calling Your Contract: SmartContracts/guides-how-to-deploy-a-wasm-contract.md
 
