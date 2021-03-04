@@ -1,43 +1,28 @@
 ### Building Your Contract
-We are going to use the ink! CLI to generate the files we need for a Substrate smart contract project.
-
-Make sure you are in your working directory, and then run:
+Run the following command to compile your smart contract::
 
 ```
-cargo contract new mycontract
+cargo +nightly contract build
 ```
-This command will create a new project folder named mycontract which we will explore:
-
-```
-cd mycontract
-```
-ink! Contract Project
+This special command will turn your ink! project into a Wasm binary, a metadata file (which contains the contract's ABI) and a .contract file which bundles both. This .contract file can be used for deploying your contract to your chain. If all goes well, To which you should see a successful test completion:
 
 ```
-.
-├── Cargo.toml              <----- Rust Dependencies and ink! Configuration
-└── lib.rs                  <-- Contract Source Code
+Original wasm size: 19.1K, Optimized: 2.5K
 
-0 directories, 2 files
+Your contract artifacts are ready. You can find them in:
+/home/ayoung/project/mycontract/target/ink
+
+  - mycontract.contract (code + metadata)
+  - mycontract.wasm (the contract's code)
+  - metadata.json (the contract's metadata)
+```
+
+you should see a target folder which contains these files:
 
 ```
-### Testing Your Contract
-You will see at the bottom of the source code there is a simple test which verifies the functionality of the contract. We can quickly test that this code is functioning as expected using the off-chain test environment that ink! provides.
-
-In your project folder run:
-
-```
-cargo +nightly test
-```
-To which you should see a successful test completion:
-
-```
-running 2 tests
-test mycontract::tests::default_works ... ok
-test mycontract::tests::it_works ... ok
-
-test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
-
+└── metadata.json
+└── mycontract.contract
+└── mycontract.wasm
 ```
 We Want to Hear From You
 
